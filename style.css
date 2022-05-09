@@ -1,0 +1,27 @@
+body {
+  text-align: center;
+}
+.card{
+  width: 100%;
+  text-align: center;
+  margin: auto;
+  margin-top: 5%;
+  color: white;
+  font-family: Impact, Charcoal, sans-serif;
+  letter-spacing: 10px;
+  font-weight: 100;
+  font-weight: 400;
+}
+.card li{
+  display: inline-block;
+  margin: 10px;
+  list-style: none;
+}
+.card li a{
+  color: white;
+  text-decoration: none;
+  font-size: 500%;
+}
+.card li a:hover{
+  color: #82f0ff;
+}
