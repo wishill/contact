@@ -8,7 +8,7 @@ body {
   margin-top: 10%;
   color: white;
   font-family: Impact, Charcoal, sans-serif;
-  letter-spacing: 10px;
+  letter-spacing: 5px;
   font-weight: 100;
   font-weight: 400;
 }
@@ -20,7 +20,7 @@ body {
 .card li a{
   color: white;
   text-decoration: none;
-  font-size: 500%;
+  font-size: 700%;
 }
 .card li a:hover{
   color: #82f0ff;
